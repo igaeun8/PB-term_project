@@ -1,7 +1,7 @@
 # JBSW NOW
 
-**AI 기반 전북권 대학 및 SW 사업단 통합 정보 플랫폼**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0454dbfd-2905-443b-856d-4c0db8f02c76" />
+## AI 기반 전북권 대학 및 SW 사업단 통합 정보 플랫폼
+![스크린샷 2025-12-25 오전 4 47 18](https://github.com/user-attachments/assets/6c70b697-8ada-4168-98ef-bce19bcd8594)
 
 전북권 내 대학(전북대, 군산대, 원광대) 및 SW 관련 사업단에서 주최하는 다양한 행사와 이벤트 정보를 통합하여 제공하는 정보 플랫폼입니다.
 각 기관별 웹사이트의 주요 게시판 콘텐츠를 주기적으로 수집(크롤링)하여 보여줍니다. 
